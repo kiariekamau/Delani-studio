@@ -1,0 +1,10 @@
+.introduction {
+    background-image: url(../img/background1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: aliceblue;
+    text-align: center;
+}
+.details h2{
+    text-align: center;
+}
