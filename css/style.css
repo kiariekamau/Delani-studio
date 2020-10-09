@@ -15,3 +15,12 @@
     color: aliceblue;
     text-align: center;
 }
+.design {
+    display: none;
+}
+.development {
+    display: none;
+}
+.product {
+    display: none;
+}
