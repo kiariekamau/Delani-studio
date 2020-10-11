@@ -44,7 +44,7 @@ h6 {
     background-repeat: no-repeat;
     background-size: 100%;
 }
-#contact form {
+#contact-info form {
     padding-bottom: 40%;
 }
 .images {
@@ -58,4 +58,22 @@ h6 {
 }
 .social-icons {
     text-align: center;
+}
+.floatcaption {
+    padding-bottom: 30%;
+    cursor: pointer;
+}
+.floatcaption .caption {
+    display: none;
+    background: white;
+    color: black;
+    padding: 15%;
+    opacity: 0.6;
+    width: 250px;
+    position: absolute;
+    bottom: 20%;
+}
+h6 {
+    cursor: pointer;
+    overflow: hidden;
 }
