@@ -8,7 +8,9 @@ $(document).ready(function() {
     $(".clickable3").click(function() {
         $(".product").toggle();
     })
-    $("#message").submit(function() {
-        alert("#Name"+ "we have received your message,thank you!")
+    $("#contact form").submit(function(event) {
+        var name=
+        alert("#"+"Name"+ " we have received your message")
+        event.preventDefault();
     })
 })

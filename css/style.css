@@ -33,7 +33,7 @@ h5 {
 h6 {
     text-align: center;
 }
-.contact {
+#contact {
     text-align: center;
     background-image: url(../img/background3.jpg);
     background-repeat: no-repeat;
@@ -47,4 +47,7 @@ h6 {
 }
 .your-message {
     padding-left: 30%;
+}
+.social-icons {
+    text-align: center;
 }
