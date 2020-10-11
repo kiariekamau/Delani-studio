@@ -9,8 +9,7 @@ $(document).ready(function() {
         $(".product").toggle();
     })
     $("#contact form").submit(function(event) {
-        var name=
-        alert("#"+"Name"+ " we have received your message")
+        alert( " we have received your message")
         event.preventDefault();
     })
 })

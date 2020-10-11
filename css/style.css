@@ -1,4 +1,6 @@
 .introduction {
+    padding-top: 20%;
+    padding-bottom: 20%;
     background-image: url(../img/background1.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
@@ -9,6 +11,8 @@
     text-align: center;
 }
 .services {
+    padding-top: 10%;
+    padding-bottom: 10%;
     background-image: url(../img/background2.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
