@@ -1,25 +1,23 @@
 # Delani-studio
 
-##Description
-This project is a landing page for a fictional studio.It contains its descriptions and also anyone can contact them and send a message.
+## This project is a landing page for a fictional studio.It contains its descriptions and also anyone can contact them and send a message.
 
-###Contributors
-Dennis Kiarie
+# By Dennis Kiarie
 
-###Setup instructions
+### Setup instructions
 Use the Link to the live site to open it on a web browser
 
-###Technologies used
+### Technologies used
 HTML was used to frame the application.
 CSS was used to style the wep application.
 javascript was used to enable the application to interact with the user.
 jQuery was used.
 bootstrap is also used.
 
-##Support and Contact
+## Support and Contact
 If you face any difficulties contact me at:0700175769 or denniskiarie426@gmail.com
 
-###Licence
+### Licence
 MIT License
 
 Copyright (c) 2020 Dennis Kiarie
