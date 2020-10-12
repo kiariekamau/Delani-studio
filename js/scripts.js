@@ -23,7 +23,7 @@
         } else if (email===""){
             alert("please enter your email")
         } else {
-            alert(name + "we have received your message successfully")
+            alert(name + " we have received your message successfully")
         }
     })
     $("form#contact").onSubmit (function(){
