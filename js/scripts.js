@@ -26,9 +26,5 @@
             alert(name + " we have received your message successfully")
         }
     })
-    $("form#contact").onSubmit (function(){
-        $("form").each(function(){
-            this,reset();
-        })
-    })
+    
 })
